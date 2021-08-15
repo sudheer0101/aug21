@@ -10,6 +10,6 @@ instance_type = "t2.micro"
 key_name = "test"
 security_groups = ["launch-wizard-2"]
  tags = {
-     Name = "terra-prod"
+     Name = "terra-dev"
  }
 }
